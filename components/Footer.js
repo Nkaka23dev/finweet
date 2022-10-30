@@ -94,11 +94,11 @@ export default function Footer (props) {
          {/* small screen */}
          <div className='lg:hidden flex flex-col gap-2'>
             <span>&#169;Copyright Finsweet 2022</span>
-           <div className='flex gap-2 justify-center'>
+           <div className='flex gap-2 justify-center mt-6'>
             <img src='/svgs/sv3.svg' className='w-8'/>
-            <img src='/svgs/sv3.svg' className='w-8' />
-            <img src='/svgs/sv3.svg' className='w-8' />
-            <img src='/svgs/sv3.svg'className='w-8' />
+            <img src='/svgs/sv4.svg' className='w-8' />
+            <img src='/svgs/sv5.svg' className='w-8' />
+            <img src='/svgs/sv6.svg'className='w-8' />
            </div>
          </div>
          <div className='hidden lg:block w-1/3 h-[0.2px] bg-white'></div>
