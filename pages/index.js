@@ -1,13 +1,15 @@
 import { Fragment } from "react";
+import Button from "../components/Button";
+import NavBar from "../components/Navbar";
 
 export default function Home() {
   return (
    <Fragment>
-    <div className="flex h-screen">
-    <h1 className="text-3xl font-bold text-green-400 lowercase  m-auto">
-      cONTENT TO BE LOADED SOON......
-    </h1>
-    </div>
+   <div>
+    <NavBar/>
+    <hr></hr>
+    {/* <Button name="MyButton"/> */}
+   </div>
    </Fragment>
   )
 }
