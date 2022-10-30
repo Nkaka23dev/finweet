@@ -43,16 +43,16 @@ export default function NavBar () {
               <Link href='/product'>Products</Link>
             </li>
             <li className='hover:underline hover:text-lg'>
-              <Link href='/blog/hello-world'>Pricing</Link>
+              <Link href='/pricing'>Pricing</Link>
             </li>
             <li className='hover:underline hover:text-lg'>
               <Link href='/about'>About Us</Link>
             </li>
             <li className='hover:underline hover:text-lg'>
-              <Link href='/'>Blog</Link>
+              <Link href='/blog'>Blog</Link>
             </li>
             <li className='hover:underline hover:text-lg'>
-              <Link href='/blog/hello-world'>Contact</Link>
+              <Link href='/contact'>Contact</Link>
             </li>
             <Button name='Free Trial' />
           </ul>
@@ -62,19 +62,19 @@ export default function NavBar () {
               <Link href='/'>Home</Link>
             </li>
             <li className='hover:underline hover:text-lg'>
-              <Link href='/about'>Products</Link>
+              <Link href='/product'>Products</Link>
             </li>
             <li className='hover:underline hover:text-lg'>
-              <Link href='/blog/hello-world'>Pricing</Link>
+              <Link href='/pricing'>Pricing</Link>
             </li>
             <li className='hover:underline hover:text-lg'>
               <Link href='/about'>About Us</Link>
             </li>
             <li className='hover:underline hover:text-lg'>
-              <Link href='/'>Blog</Link>
+              <Link href='/blog'>Blog</Link>
             </li>
             <li className='hover:underline hover:text-lg'>
-              <Link href='/blog/hello-world'>Contact</Link>
+              <Link href='/contact'>Contact</Link>
             </li>
             <Button name='Free Trial' />
           </ul>

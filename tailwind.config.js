@@ -9,7 +9,7 @@ module.exports = {
       colors:{
         primary:'#1D2130',
         customGreen:'#4397A4',
-        darkGreen:'#486A6F',
+        ColorPink: 'rgba(215, 152, 225, 0.15)',
         lightColor: '#F4F7FF',
         greenLight:'#C6DBFF',
         secondary:'#1D2130',

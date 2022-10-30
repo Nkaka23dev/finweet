@@ -16,10 +16,10 @@ export default function Footer (props) {
                 <Link href='/'>Home</Link>
               </li>
               <li className='hover:underline'>
-                <Link href='/about'>Products</Link>
+                <Link href='/product'>Products</Link>
               </li>
               <li className='hover:underline'>
-                <Link href='/blog/hello-world'>Pricing</Link>
+                <Link href='/pricing'>Pricing</Link>
               </li>
               <li className='hover:underline'>
                 <Link href='/about'>About Us</Link>
