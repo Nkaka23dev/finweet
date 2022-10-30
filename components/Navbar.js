@@ -9,7 +9,7 @@ export default function NavBar () {
       <nav className='px-10  max-w-6xl mx-auto'>
         <div className='flex flex-col gap-5 lg:flex-row lg:justify-between lg:items-center lg:h-20'>
           <div className='flex justify-between py-10'>
-            <Link href='#'>
+            <Link href='/'>
               {' '}
               <Image
                 src='/svgs/sv1.svg'
@@ -40,7 +40,7 @@ export default function NavBar () {
               <Link href='/'>Home</Link>
             </li>
             <li className='hover:underline hover:text-lg'>
-              <Link href='/about'>Products</Link>
+              <Link href='/product'>Products</Link>
             </li>
             <li className='hover:underline hover:text-lg'>
               <Link href='/blog/hello-world'>Pricing</Link>
