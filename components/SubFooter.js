@@ -4,7 +4,7 @@ import Button from './Button'
 export default function SubFooter (props) {
   return (
     <Fragment>
-     <section className='bg-gradient-to-t from-green-50 to-white py-40 relative'>
+     <section className='bg-gradient-to-t from-green-50 to-white py-20 relative'>
      <div className='max-w-5xl mx-auto flex'>
       <div className='m-auto'>
       <h1 className='text-center text-3xl font-bold
