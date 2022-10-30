@@ -106,8 +106,7 @@ export default function Home () {
               </div>
             </div>
           </div>
-        </section>  
-
+        </section>   
         <section className='max-w-6xl mx-auto bg-ColorPink'>
         <div className='px-16 py-10'>
           <div className='flex flex-col gap-5 lg:flex-row lg:justify-between lg:items-center'>
@@ -125,6 +124,56 @@ export default function Home () {
               <img src='/svg2/sv13.svg' />
               <h1 className='text-2xl font-semibold'>Full time customer<br></br> support - 24/7</h1>
               <h4>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</h4>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section className='h-full max-w-4xl mx-auto py-10'>
+          <div className='flex flex-col gap-10 h-full'>
+            <div className='h-1/3 max-w-lg mx-auto space-y-5 mt-5 text-center'>
+            <h1 className='text-3xl font-semibold'>
+              The stunning results our<br></br>Customers have experienced
+              </h1>
+            </div>
+          </div>
+        </section> 
+        <section className='max-w-6xl mx-auto'>
+        <div className='px-16 py-10'>
+          <div className='flex flex-col gap-5 lg:flex-row lg:justify-between lg:items-center'>
+            <div className='space-y-3 grid border-4 w-full lg:w-1/3 px-10 py-5'>
+              <h1 className='text-base text-center'>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+              For situations where the user has specified that they prefer reduced motion.
+              </h1>
+              <div className='mx-auto'>
+              <img src='/svg2/sv14.svg' />
+              <p>Ben WOlf</p>
+              <p className='text-center'>CEO</p>
+              </div>
+            </div>
+
+            <div className='space-y-3 grid border-4 w-full lg:w-1/3 px-10 py-5'>
+              <h1 className='text-base text-center'>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+              For situations where the user has specified that they prefer reduced motion.
+              </h1>
+              <div className='mx-auto'>
+              <img src='/svg2/sv15.svg' />
+              <p>Ben WOlf</p>
+              <p className='text-center'>CEO</p>
+              </div>
+            </div>
+
+            <div className='space-y-3 grid border-4 w-full lg:w-1/3 px-10 py-5'>
+              <h1 className='text-base text-center'>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+              For situations where the user has specified that they prefer reduced motion.
+              </h1>
+              <div className='mx-auto'>
+              <img src='/svg2/sv16.svg' />
+              <p>Ben WOlf</p>
+              <p className='text-center'>CEO</p>
+              </div>
             </div>
           </div>
         </div>
