@@ -1,5 +1,7 @@
 import { Fragment } from "react";
 import Button from "../components/Button";
+import Footer from "../components/Footer";
+import InputBtn from "../components/InputBtn";
 import NavBar from "../components/Navbar";
 
 export default function Home() {
@@ -9,6 +11,7 @@ export default function Home() {
     <NavBar/>
     <hr></hr>
     {/* <Button name="MyButton"/> */}
+    <Footer/>
    </div>
    </Fragment>
   )

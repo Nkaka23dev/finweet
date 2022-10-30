@@ -12,7 +12,7 @@ module.exports = {
         darkGreen:'#486A6F',
         lightColor: '#F4F7FF',
         greenLight:'#C6DBFF',
-        secondary:'#5BCCDE',
+        secondary:'#1D2130',
         hero: '#E1EBFA',
         btFormColor:'#E1EBFA'
       }
